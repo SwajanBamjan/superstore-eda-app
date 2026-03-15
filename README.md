@@ -24,10 +24,7 @@ The application that has been developed for this project is an interactive EDA a
 
  **1. Download the dataset**
  
- Download the dataset from Kaggle:
- https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-
- Rename the download file to `superstore.csv` and place it in the same folder as `app.py`.
+ The dataset `superstore.csv` is already included in the repository.
 
 
  **2. Install dependencies**
